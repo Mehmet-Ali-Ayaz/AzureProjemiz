@@ -1,0 +1,2 @@
+# AzureProjemiz
+ortak proje
